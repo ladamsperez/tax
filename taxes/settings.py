@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [127.0.0.1:8000, nameless-citadel-25464.herokuapp.com]
+ALLOWED_HOSTS = ['127.0.0.1:8000', 'nameless-citadel-25464.herokuapp.com']
 
 
 # Application definition
